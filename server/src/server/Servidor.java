@@ -16,7 +16,7 @@ public class Servidor {
 	Servidor() {
 		try {
 			
-			System.out.println("Servidor..up");
+			System.out.println("Servidor....up");
 			ServerSocket sock = new ServerSocket(PORT);
 			
 			do{
